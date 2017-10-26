@@ -11,7 +11,7 @@ jQuery插件tootip提示框,可配置,可选择样式
     <script type="text/javascript" src="http://code.jquery.com/jquery-1.10.0.min.js"></script>
     <script type="text/javascript" src="tooltipster/dist/js/tooltipster.bundle.min.js"></script>
 </head>
-'''
+```
 
 2.设置html
 
