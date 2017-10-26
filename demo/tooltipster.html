@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<link rel="stylesheet" href="css/tooltipster.bundle.css" />
+		<script src="../js/jquery-1.11.1.min.js" type="text/javascript" charset="utf-8"></script>
+		<script src="js/tooltipster.bundle.js" type="text/javascript" charset="utf-8"></script>
+		<title>提示框</title>
+	</head>
+	<body>
+		<span class="tooltip" title="这里是提示">我要在这里写一段文字</span>
+	</body>
+	
+	<script type="text/javascript">
+		$(document).ready(function(){
+			$(".tooltip").tooltipster({
+				side:'right'
+			});
+		});
+	</script>
+</html>
