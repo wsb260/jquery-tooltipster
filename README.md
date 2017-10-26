@@ -1,5 +1,6 @@
 # jquery-tooltipster
 jQuery插件tootip提示框,可配置,可选择样式
+[中文文档地址](http://www.jq22.com/yanshi14735)
 
 #简单样例
 
