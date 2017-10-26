@@ -37,7 +37,16 @@ jQuery插件tootip提示框,可配置,可选择样式
     </script>
 
 ```
-4.参数
+4.自定义样式风格
+样式表文件在themes文件夹里
+第一个是默认样式, Tooltipster还为你提供另外五种主题风格.
+![image text](https://raw.githubusercontent.com/wsb260/jquery-tooltipster/master/demo/img/img1.jpg)
+```javascript
+$('.tooltip').tooltipster({
+    theme: 'tooltipster-noir' //使用Noir主题
+});
+```
+5.参数说明
 ```javascript
 参数 	可用的值 	描述
 animation
